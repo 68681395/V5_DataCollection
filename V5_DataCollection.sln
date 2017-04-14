@@ -24,6 +24,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Readme", "Readme", "{726815
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V5_WebBrowser", "V5_WebBrowser\V5_WebBrowser.csproj", "{3360915E-67D1-4283-B3CD-B0EBAFE52B1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{94902BDD-1E20-436B-8462-1BCB35E4D293}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94902BDD-1E20-436B-8462-1BCB35E4D293}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94902BDD-1E20-436B-8462-1BCB35E4D293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3360915E-67D1-4283-B3CD-B0EBAFE52B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3360915E-67D1-4283-B3CD-B0EBAFE52B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3360915E-67D1-4283-B3CD-B0EBAFE52B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3360915E-67D1-4283-B3CD-B0EBAFE52B1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
