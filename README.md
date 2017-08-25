@@ -14,11 +14,11 @@
 - [oschina](http://git.oschina.net/v5soft/V5_DataCollection)
 
 ## 软件截图
-- ![1](V5_ScreenSnaps/1.jpg)
-- ![2](V5_ScreenSnaps/2.jpg)
-- ![3](V5_ScreenSnaps/3.jpg)
-- ![4](V5_ScreenSnaps/4.jpg)
-- ![5](V5_ScreenSnaps/5.jpg)
+ ![1](V5_ScreenSnaps/1.jpg)
+ ![2](V5_ScreenSnaps/2.jpg)
+ ![3](V5_ScreenSnaps/3.jpg)
+ ![4](V5_ScreenSnaps/4.jpg)
+ ![5](V5_ScreenSnaps/5.jpg)
 
 ## 目录结构
 - V5_AULWriter 更新写入
