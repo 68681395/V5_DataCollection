@@ -7,6 +7,7 @@
 
 ## 最新力作 V5数据采集浏览器(V5_DataCollectionBrowser)
 - [下载试用](http://pan.baidu.com/s/1jIHYhLk)
+- [简单手册](http://wiki.v5soft.com/wiki/show/28)
 
 ## 源码仓库
 - [github](https://github.com/lsamu/V5_DataCollection)
